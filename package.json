@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "name": "tsfund",
+  "version": "1.0.0",
+
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
