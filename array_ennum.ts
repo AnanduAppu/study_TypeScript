@@ -23,3 +23,16 @@ let obj ={
 }
 
 console.log(obj)
+
+
+// type any 
+
+let val:any='hellow'; // by type 'any' we can assign any type  to this variable
+val=5
+
+let arr:any[]=[1,"bag",true]
+
+console.log(arr)
+
+
+//--noImplicitAny , look this topic easy which help to avoid implicit variable what we define and which show the errors

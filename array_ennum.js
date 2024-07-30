@@ -15,3 +15,8 @@ var obj = {
     youtype: courseType.Hidden
 };
 console.log(obj);
+// type any 
+var val = 'hellow'; // by type 'any' we can assign any type  to this variable
+val = 5;
+var arr = [1, "bag", true];
+console.log(arr);
